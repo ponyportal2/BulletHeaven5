@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Unreal Projects/BulletHeavenN/.git": true,
+		"C:/Unreal Projects/BulletHeavenN/.vscode": true,
+		"C:/Unreal Projects/BulletHeavenN/Content": true,
+		"C:/Unreal Projects/BulletHeavenN/Intermediate": true,
+		"C:/Unreal Projects/BulletHeavenN/Rubbish": true,
+		"C:/Unreal Projects/BulletHeavenN/Saved": true
+	}
+}
