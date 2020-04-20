@@ -71,6 +71,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Saved/Logs/*
+Saved/Diff/*
 Saved/Autosaves/*
 Saved/Backup/*
 Saved/Cooked/*
