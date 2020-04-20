@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.UserDefinedEnum Name="Weapons"
+   UniqueNameIndex=2
+   DisplayNameMap=(("NewEnumerator0", NSLOCTEXT("[7778FA1E400F3BF8418CB094EC9B7587]", "1B8E19FC4693212910B5668E2810EB50", "Pistols")),("NewEnumerator1", NSLOCTEXT("[7778FA1E400F3BF8418CB094EC9B7587]", "9DD87EFA4D7221111ACF56B841BB5424", "Suriken")))
+End Object
