@@ -80,10 +80,10 @@ Saved/EditorCooked/*
 Saved/StagedBuilds/*
 
 Saved/Config/CrashReportClient/*
+Saved/Config/WorldState/*
+Saved/Config/Windows/Engine.ini
 
 Saved/Logs/AppTemplate.log
-Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Saved/Config/Windows/Engine.ini
 Saved/AutoScreenshot.png
 
 Rubbish/*
@@ -94,4 +94,4 @@ Content/ATooBigForGithub/*
 
 Content/Developers/*
 
-
+.vscode/*
