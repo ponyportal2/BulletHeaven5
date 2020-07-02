@@ -83,6 +83,7 @@ Saved/StagedBuilds/*
 Saved/Config/CrashReportClient/*
 Saved/Config/WorldState/*
 Saved/Config/Windows/Engine.ini
+Saved/Config/LevelState/*
 
 Saved/Logs/AppTemplate.log
 Saved/AutoScreenshot.png
